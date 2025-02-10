@@ -1,0 +1,15 @@
+<!DOCTYPE html>  <!--The doctype statement indicates the markup language of the document-->
+<html>
+    <head> <!--The head element provides information and instructions to the browser about the document. -->
+   	 <title>My First Page-Lists</title> <!--The contents of the title element appear in the browser title bar.-->
+    </head>
+
+    <body bgcolor="#3674B5">
+        
+    <hr style="border: none; height: 50px; background-color: #EFE9D5; width: 100%; text-align: right; margin: 0;" />
+
+        
+        
+        
+        
+    </body>
